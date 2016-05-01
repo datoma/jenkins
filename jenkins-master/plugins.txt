@@ -1,0 +1,3 @@
+jclouds-jenkins
+durable-task
+docker-plugin
